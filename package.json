@@ -1,0 +1,24 @@
+{
+  "name": "weather-prediction",
+  "version": "0.0.1",
+  "description": "ML experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autioch/weather-prediction.git"
+  },
+  "author": "github.com/autioch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/autioch/weather-prediction/issues"
+  },
+  "homepage": "https://github.com/autioch/weather-prediction#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.0.2",
+    "eslint": "^5.15.3",
+    "eslint-config-qb": "^1.0.0"
+  }
+}
